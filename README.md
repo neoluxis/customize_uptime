@@ -2,7 +2,7 @@
 
 Thie repo is a simple C++ code to customize your uptime for Linux.
 
-Help:
+Usage:
 
 ```bash
 $ g++ _uptime.cpp -o _uptime
